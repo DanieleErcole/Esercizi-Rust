@@ -1,2 +1,2 @@
-# Esercizi Rust
+# Esercizi-Rust
  Esercizi in linguaggio Rust
